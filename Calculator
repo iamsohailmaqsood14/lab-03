@@ -4,9 +4,13 @@ int main()
 {
 cout<<"sohail maqsood"<<endl;
 cout<<"23-SET-014"<<endl;
+ subtraction
  multiplication
  division
 cout<<"The division of numbers are:"<<a/b<<endl;
+
+cout<<"The addition of numbers are:"<<a+b<<endl;
+ addition
 
 cout<<"the multiplication of numbers are:"<<a*b<<endl;
  multiplication
