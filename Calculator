@@ -4,7 +4,7 @@ int main()
 {
 cout<<"sohail maqsood"<<endl;
 cout<<"23-SET-014"<<endl;
-
+cout<<"The division of numbers are:"<<a/b<<endl;
 
 
 
